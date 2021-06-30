@@ -1,11 +1,6 @@
 {
-  "data": {
-    "posts": [
-      {
-        "id": 21,
-        "title": "xhZctrcDeP",
-        "views": 98
-      }
-    ]
+  "Post": {
+    "code": "number",
+    "token": "string"    
   }
 }
