@@ -1,8 +1,11 @@
 {
-  "Post":[
-    {
-      code : 200,
-      token : ''
-    }
-  ]
+  "data": {
+    "posts": [
+      {
+        "id": 21,
+        "title": "xhZctrcDeP",
+        "views": 98
+      }
+    ]
+  }
 }
